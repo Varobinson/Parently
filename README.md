@@ -12,7 +12,7 @@ Your task is to build something awesome! You'll be using the backend (and front-
 <br>
 
 ## :book: About the project
-Parently was created to help children and parents manage household chores. It is recommended for children over 8 years old. Parents can create an account for as many children as they want and set chores for each child. Children can access their online accounts, view the day's schores and mark them as completed.
+Parently was created to help children and parents manage household chores. It is recommended for children over 8 years old. Parents can create an account for as many children as they want and set chores for each child. Children can access their online accounts, view the day's chores and mark them as completed.
 <br>
 <br>
 
